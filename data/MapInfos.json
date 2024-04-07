@@ -3,5 +3,6 @@ null,
 {"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":620,"scrollY":417.3333333333333},
 {"id":2,"expanded":true,"name":"Learning-RPG-Maker-Map","order":2,"parentId":0,"scrollX":1622,"scrollY":923,"quick":false},
 {"id":3,"expanded":true,"name":"Swamp","order":3,"parentId":0,"scrollX":1638,"scrollY":997,"quick":false},
-{"id":4,"expanded":true,"name":"Swamp Entrance","order":4,"parentId":3,"scrollX":1622,"scrollY":923,"quick":false}
+{"id":4,"expanded":true,"name":"Swamp Entrance","order":4,"parentId":3,"scrollX":1622,"scrollY":923,"quick":false},
+{"id":5,"expanded":true,"name":"MAP005","order":5,"parentId":0,"scrollX":2122.285714285714,"scrollY":1181.142857142857,"quick":false}
 ]
