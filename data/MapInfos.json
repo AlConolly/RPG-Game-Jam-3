@@ -1,13 +1,15 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":516.5454545454546,"scrollY":348},
-{"id":2,"expanded":true,"name":"Learning-RPG-Maker-Map","order":2,"parentId":0,"scrollX":516.5454545454546,"scrollY":276,"quick":false},
-{"id":3,"expanded":false,"name":"Swamp","order":3,"parentId":0,"scrollX":1390.3636363636365,"scrollY":792,"quick":false},
-{"id":4,"expanded":true,"name":"Swamp Entrance","order":5,"parentId":3,"scrollX":631.3333333333334,"scrollY":326.6666666666667,"quick":false},
-{"id":5,"expanded":true,"name":"MAP005","order":8,"parentId":0,"scrollX":1328.1818181818182,"scrollY":924,"quick":false},
-{"id":6,"expanded":false,"name":"Factory Entrance","order":6,"parentId":3,"scrollX":816,"scrollY":840,"quick":false},
-{"id":7,"expanded":false,"name":"Pre-factory current puzzle","order":7,"parentId":3,"scrollX":816,"scrollY":692,"quick":false},
-{"id":8,"expanded":false,"name":"Swamp 2","order":4,"parentId":3,"scrollX":1088,"scrollY":944,"quick":false},
-{"id":9,"expanded":false,"name":"Beginning Cutscene","order":9,"parentId":0,"scrollX":516.5454545454546,"scrollY":276,"quick":false},
-{"id":10,"expanded":false,"name":"Hub","order":10,"parentId":0,"scrollX":525.2727272727273,"scrollY":326.1818181818182,"quick":false}
+{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":1390.2857142857142,"scrollY":791.1428571428571},
+{"id":2,"expanded":true,"name":"Learning-RPG-Maker-Map","order":2,"parentId":0,"scrollX":1081.3333333333333,"scrollY":615.3333333333334,"quick":false},
+{"id":3,"expanded":true,"name":"Swamp","order":3,"parentId":0,"scrollX":1216,"scrollY":692.6666666666666,"quick":false},
+{"id":4,"expanded":true,"name":"Swamp Entrance","order":5,"parentId":3,"scrollX":1081.3333333333333,"scrollY":615.3333333333334,"quick":false},
+{"id":5,"expanded":true,"name":"MAP005","order":8,"parentId":0,"scrollX":1622,"scrollY":923,"quick":false},
+{"id":6,"expanded":false,"name":"Factory Entrance","order":6,"parentId":3,"scrollX":1081.3333333333333,"scrollY":840.6666666666666,"quick":false},
+{"id":7,"expanded":false,"name":"Pre-factory current puzzle","order":7,"parentId":3,"scrollX":1081.3333333333333,"scrollY":747.3333333333334,"quick":false},
+{"id":8,"expanded":false,"name":"Swamp 2","order":4,"parentId":3,"scrollX":1092,"scrollY":940.6666666666666,"quick":false},
+{"id":9,"expanded":true,"name":"Beginning Cutscene","order":9,"parentId":0,"scrollX":1081.3333333333333,"scrollY":615.3333333333334,"quick":false},
+{"id":10,"expanded":false,"name":"Hub","order":11,"parentId":0,"scrollX":1081.3333333333333,"scrollY":888.6666666666666,"quick":false},
+{"id":11,"expanded":false,"name":"Dumb Quote","order":10,"parentId":9,"scrollX":1081.3333333333333,"scrollY":615.3333333333334,"quick":false},
+{"id":12,"expanded":false,"name":"World Crystal","order":12,"parentId":10,"scrollX":1081.3333333333333,"scrollY":1784.6666666666667,"quick":false}
 ]
