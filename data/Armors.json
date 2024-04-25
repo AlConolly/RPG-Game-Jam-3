@@ -1,12 +1,12 @@
 [
 null,
-{"id":1,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"-----Armors","note":"","params":[0,0,0,1,0,0,0,0],"price":100},
+{"id":1,"atypeId":1,"description":"","etypeId":0,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"-----Armors","note":"","params":[0,0,0,1,0,0,0,0],"price":100},
 {"id":2,"atypeId":1,"description":"[General Equipment] Linen clothing with high\nbreathability.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Linen Clothing","note":"","params":[0,0,0,1,0,0,0,0],"price":100},
 {"id":3,"atypeId":1,"description":"[General Equipment] A vest made of tanned hide.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Leather Vest","note":"","params":[0,0,0,3,0,0,0,0],"price":200},
 {"id":4,"atypeId":1,"description":"[General Equipment] Durable clothing that can\nwithstand rough travels.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Adventurer’s Clothing","note":"","params":[0,0,0,7,0,0,0,0],"price":550},
 {"id":5,"atypeId":1,"description":"[General Equipment] A vest made of leather\nhardened with glue.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Hard Leather","note":"","params":[0,0,0,15,0,0,0,0],"price":980},
 {"id":6,"atypeId":1,"description":"[General Equipment] Tanned hide clothing reinforced\nwith steel plates.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Brigandine","note":"","params":[0,0,0,20,0,0,0,0],"price":1560},
-{"id":7,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":7,"atypeId":8,"description":"A round piece of plastic from home.\nSlightly boosts HP","etypeId":2,"traits":[],"iconIndex":160,"name":"Plastic Gem","note":"","params":[250,0,0,0,0,0,0,0],"price":0},
 {"id":8,"atypeId":3,"description":"[Light Equipment] Armor made of tough cloth.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":136,"name":"Cloth Armor","note":"","params":[0,0,0,4,0,0,0,0],"price":260},
 {"id":9,"atypeId":3,"description":"[Light Equipment] Armor made of layered hide.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":136,"name":"Leather Armor","note":"","params":[0,0,0,8,0,0,0,0],"price":550},
 {"id":10,"atypeId":3,"description":"[Light Equipment] A breastplate made of bronze.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":136,"name":"Bronze Breastplate","note":"","params":[0,0,0,13,0,0,0,0],"price":840},
@@ -99,5 +99,9 @@ null,
 {"id":97,"atypeId":1,"description":"[Accessory] Increases TP Charge Rate.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0},{"code":23,"dataId":5,"value":2}],"iconIndex":145,"name":"Ring of Guts","note":"","params":[0,0,0,0,0,0,0,0],"price":1000},
 {"id":98,"atypeId":1,"description":"[Accessory] Decreases MP Cost Rate.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0},{"code":23,"dataId":4,"value":0.5}],"iconIndex":144,"name":"MP Keeper","note":"","params":[0,0,0,0,0,0,0,0],"price":1000},
 {"id":99,"atypeId":1,"description":"[Accessory] Damage inflicted by Fire, Water, Wind,\nand Earth attacks is halved.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0},{"code":11,"dataId":2,"value":0.5},{"code":11,"dataId":5,"value":0.5},{"code":11,"dataId":6,"value":0.5},{"code":11,"dataId":7,"value":0.5}],"iconIndex":145,"name":"Elemental Guard","note":"","params":[0,0,0,0,0,0,0,0],"price":1000},
-{"id":100,"atypeId":1,"description":"[Accessory] Sharpens eyesight and increases hit rate.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.5}],"iconIndex":151,"name":"Spectacles","note":"","params":[0,0,0,0,0,0,0,0],"price":500}
+{"id":100,"atypeId":1,"description":"[Accessory] Sharpens eyesight and increases hit rate.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.5}],"iconIndex":151,"name":"Spectacles","note":"","params":[0,0,0,0,0,0,0,0],"price":500},
+{"id":101,"atypeId":0,"description":"Boosts defense and attack","etypeId":2,"traits":[{"code":21,"dataId":3,"value":1.2},{"code":21,"dataId":2,"value":1.2}],"iconIndex":0,"name":"Crystal of Consciousness","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":102,"atypeId":0,"description":"A round piece of plastic from home.\nSlightly boosts HP","etypeId":2,"traits":[],"iconIndex":160,"name":"Plastic Gem","note":"","params":[250,0,0,0,0,0,0,0],"price":0},
+{"id":103,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":104,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
 ]
