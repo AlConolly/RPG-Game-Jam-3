@@ -8,6 +8,6 @@ null,
 {"id":6,"battlerName":"Actor1_6","characterIndex":5,"characterName":"Actor1","classId":2,"equips":[7,0],"faceIndex":5,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kasey","nickname":"","note":"","profile":""},
 {"id":7,"battlerName":"Actor1_7","characterIndex":6,"characterName":"Actor1","classId":3,"equips":[7,0],"faceIndex":6,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Eliot","nickname":"","note":"","profile":""},
 {"id":8,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":3,"equips":[7,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Roza","nickname":"","note":"","profile":""},
-{"id":9,"battlerName":"","characterIndex":0,"characterName":"$gustavo","classId":1,"equips":[0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Gustavo","nickname":"Gus","note":"","profile":""},
-{"id":10,"battlerName":"","characterIndex":0,"characterName":"$Presto2","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Con Presto","nickname":"Presto","note":"","profile":""}
+{"id":9,"battlerName":"Actor1_7","characterIndex":0,"characterName":"$gustavo","classId":3,"equips":[50,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Gustavo","nickname":"Gus","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"$Presto2","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":4,"maxLevel":99,"name":"Con Presto","nickname":"Presto","note":"","profile":""}
 ]
