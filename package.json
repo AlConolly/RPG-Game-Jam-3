@@ -3,7 +3,7 @@
     "main": "index.html",
     "chromium-args": "--force-color-profile=srgb",
     "window": {
-        "title": "RPG-Game-Jam-3",
+        "title": "Ludo-Somni",
         "width": 816,
         "height": 624,
         "position": "center",
